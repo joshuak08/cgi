@@ -1,0 +1,26 @@
+CGI
+
+hold J while rotating to snap
+shading->wireframe on shaded
+~shift+D, clone place with distance
+double click move tool and change world/object relative
+edit mesh (top) > add divisions for cloned polygons
+shift + RHM > insert edge loop
+extrude: shift + move
+smooth 123; 3 easy way to check geometry validity
+ctrl+h: hide selected, (outliner) shift+h: unhide, alt+h: hide unselected
+use shift+R (Extrude) to make a smaller face within another
+you can duplicate single faces out of an edge-looped-extruded object
+when mirroring don’t cut geometry, mirror axis pos: bounding box/object (pivot point)
+can duplicate the ‘mirror point’ face when mirroring, remove that face
+edit>GROUP
+mesh>boolean>union not necessary if object is to be solid (aka not transparent/glass)
+edit>delete by type>history
+can cut objects in half by using large cube and bool(A-B)
+edit mesh>detach & mesh>separate (the shells) and ungroup
+create > measure tools > distance tool
+
+not v useful to subdivide faces; use insert edge loop
+clicking extrude thru menu introduces new faces instantly even if you don’t move them
+booleans are not the best way to edit an object then keep editing said object - gets complicated; no edge loops
+preferences > edit > restore default
