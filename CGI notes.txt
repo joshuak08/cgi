@@ -24,3 +24,10 @@ not v useful to subdivide faces; use insert edge loop
 clicking extrude thru menu introduces new faces instantly even if you don’t move them
 booleans are not the best way to edit an object then keep editing said object - gets complicated; no edge loops
 preferences > edit > restore default
+
+W5 - Camera redner setups
+find out how to create perspective window, to save different perspectives because cannot get exact precise pov again
+create different render settings change resolution, windows->rendering editors->render settings->image size->presets
+instead of keep re-rendering, in render view can change test resolution, typically pick 25%, find out how
+
+figure out how to save and render multiple frames, can choose start and end frames, remember to pick correct camera from renderable camera
