@@ -25,9 +25,26 @@ clicking extrude thru menu introduces new faces instantly even if you don’t mo
 booleans are not the best way to edit an object then keep editing said object - gets complicated; no edge loops
 preferences > edit > restore default
 
-W5 - Camera redner setups
+W5 - Camera render setups
 find out how to create perspective window, to save different perspectives because cannot get exact precise pov again
 create different render settings change resolution, windows->rendering editors->render settings->image size->presets
 instead of keep re-rendering, in render view can change test resolution, typically pick 25%, find out how
 
 figure out how to save and render multiple frames, can choose start and end frames, remember to pick correct camera from renderable camera
+
+W7
+Animation part
+Set framerate to 24fps [bottom right walking man logo]
+Press bottom bar frame number
+Press s to save keyframe
+then move scale change object then press another frame and save, maya will do the moving/animating, press s to save keyframe again
+
+To unselect attributes ot not make them red, select all, right click, break connections
+
+Another way not using s, select specific attribute, right click, key selected, make changes, break connections
+
+Graph editor - get it up through windows -> animation editors -> graph editor
+inside graph editor can change each attribute for key object each keyframe more precise
+tangents changes how the object moves wrt acceleration (curve is polynomial or linear)
+Graph editor more precise animations
+Test speed of animation create playblast
