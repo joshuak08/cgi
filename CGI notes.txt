@@ -48,3 +48,8 @@ inside graph editor can change each attribute for key object each keyframe more 
 tangents changes how the object moves wrt acceleration (curve is polynomial or linear)
 Graph editor more precise animations
 Test speed of animation create playblast
+
+W8
+Dealing with curves
+Create curves using curve tools, then draw with points, then click revolve make surface whole
+Can also use sweep mesh to make pipes for curve lines

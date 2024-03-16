@@ -1,0 +1,6 @@
+model things (can briefly rough things or detailed)
+then light things slightly
+then add texturing/lighting
+then could add more detail whilst doing animation
+Shouldve saved history of objects
+
