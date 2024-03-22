@@ -53,3 +53,7 @@ W8
 Dealing with curves
 Create curves using curve tools, then draw with points, then click revolve make surface whole
 Can also use sweep mesh to make pipes for curve lines
+
+W9
+Dealing with UV faces
+Detach polygon face, then separate, to distinguish that face
